@@ -1,0 +1,9 @@
+{
+  "name": "Epic Button Game",
+  "description": "This is a web based game in which every time the button is clicked, a counter will be incremented by 1 and broadcasted to all connected users in real-time",
+  "dependencies": {
+    "ejs": "^2.4.1",
+    "express": "^4.13.4",
+    "socket.io": "^1.4.5"
+  }
+}
